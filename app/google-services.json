@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973914535428",
+    "project_id": "testfirebase-7a4d2",
+    "storage_bucket": "testfirebase-7a4d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973914535428:android:972eb37aa9e4a382f86751",
+        "android_client_info": {
+          "package_name": "com.rossita.testfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973914535428-f6skfcmpfq91cbte0paq3cpmj4v2pros.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvMBIGi2JkXrYQIz8mfzdymiTF9mfXB3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973914535428-f6skfcmpfq91cbte0paq3cpmj4v2pros.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
